@@ -1,0 +1,17 @@
+POST localhost:8080/SpringFileUpload-1.0.0-BUILD-SNAPSHOT/uploadFile/
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryePkpFF7tjBAqx29L
+
+------WebKitFormBoundaryePkpFF7tjBAqx29L
+Content-Disposition: form-data; name="file";filename=""
+
+Hello World!!!
+------WebKitFormBoundaryePkpFF7tjBAqx29L
+Content-Disposition: form-data; name="name"
+
+test.txt
+------WebKitFormBoundaryePkpFF7tjBAqx29L--
+
+
+
+
+###
